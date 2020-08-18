@@ -1,0 +1,8 @@
+-to get started
+-go to terminals
+-to get your node_module
+npm install
+-to run the test
+npm test
+-to generate report
+allure generate --clean && allure open

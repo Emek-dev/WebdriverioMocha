@@ -6,3 +6,4 @@ npm install
 npm test
 -to generate report
 allure generate --clean && allure open
+
